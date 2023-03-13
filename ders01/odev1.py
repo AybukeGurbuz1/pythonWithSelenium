@@ -1,3 +1,4 @@
+                      #******ödev1******#
 #***Soru 1***
 #Python'da Veri Tipleri
 #String (metin) veri tipleri → str
